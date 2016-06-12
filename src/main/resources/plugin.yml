@@ -1,0 +1,4 @@
+name: ${project.artifactId}
+main: ${package}.${project.artifactId}
+version: ${project.version}
+authors: [axle2005]
